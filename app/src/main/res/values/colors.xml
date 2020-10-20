@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#76D7C4</color>
+    <color name="primaryDark">#1ABC9C</color>
+    <color name="launcher_icon">#48C9B0</color>
+    <color name="dismiss_activity_textcolor">#ffffff</color>
+    <color name="dismiss_activity_background">#000000</color>
+    <color name="main_textcolor">#777777</color>
+    <color name="main_background">#ffffff</color>
+    <color name="main_disabled_textcolor">#aaaaaa</color>
+</resources>
